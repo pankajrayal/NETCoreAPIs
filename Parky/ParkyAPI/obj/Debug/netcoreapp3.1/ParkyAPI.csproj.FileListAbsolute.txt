@@ -61,3 +61,5 @@ C:\D-Drive\Pankaj\Code\DotNetCore\ASPNETCoreAPIs\Parky\ParkyAPI\bin\Debug\netcor
 C:\D-Drive\Pankaj\Code\DotNetCore\ASPNETCoreAPIs\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.csproj.CopyComplete
 C:\D-Drive\Pankaj\Code\DotNetCore\ASPNETCoreAPIs\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\D-Drive\Pankaj\Code\DotNetCore\ASPNETCoreAPIs\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\D-Drive\Pankaj\Code\DotNetCore\ASPNETCoreAPIs\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\D-Drive\Pankaj\Code\DotNetCore\ASPNETCoreAPIs\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
